@@ -71,7 +71,7 @@ ul {
     color: #434455;
     font-size: 16px; 
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 /**-------------HERO----------**/
@@ -103,8 +103,8 @@ ul {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.button-order-text:hover,
-.button-order-text:focus {
+.button-order:hover,
+.button-order:focus {
     color: #404bbf;
 }
 
