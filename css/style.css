@@ -103,9 +103,10 @@ ul {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
+
 .button-order:hover,
 .button-order:focus {
-    color: #404bbf;
+    background-color: #404BBF;
 }
 
 
