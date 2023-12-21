@@ -41,7 +41,7 @@ ul {
         font-style: normal;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
@@ -91,7 +91,10 @@ ul {
     line-height: 1.07;
     letter-spacing: 0.02em;}
 
-
+.button-order:hover,
+.button-order:focus {
+    background-color: #404BBF;
+}
 
 .button-order {
     color: #FFF;
@@ -104,10 +107,7 @@ ul {
     cursor: pointer;
 }
 
-.button-order:hover,
-.button-order:focus {
-    background-color: #404BBF;
-}
+
 
 
 
